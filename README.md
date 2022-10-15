@@ -14,7 +14,9 @@ A tool to edit regional pokedex order in Gen 4-5 games
 
 You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar to insert the generated files
 
-
+## Known Bugs
+* Entirely empty entries (litterally nothing) will crash the tool when trying to export
+* The tool cannot overwrite existing .bin files
 
 
 

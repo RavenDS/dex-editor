@@ -22,4 +22,11 @@ You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar t
 ## Notes
 * The language toggle does not change how the names are displayed in game, only in the tool
 
+## Credits
+<a href="https://github.com/nickworonekin">nickworonekin</a> for <a href="https://github.com/nickworonekin/narchive">narchive</a>, a narc unpacker/repacker tool
+
+<a href="https://github.com/PikalaxALT">PikalaxALT</a> for <a href="https://github.com/pret/pokeheartgold/tree/master/tools/msgenc">msgenc</a>, a text archive encoding tool
+
+
+
 

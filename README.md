@@ -26,11 +26,13 @@ You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar t
 * The language toggle does not change how the names are displayed in game, only in the tool
 
 ## Credits
-<a href="https://github.com/nickworonekin">nickworonekin</a> for <a href="https://github.com/nickworonekin/narchive">narchive</a>, a narc unpacker/repacker tool
+<b><a href="https://github.com/nickworonekin">nickworonekin</a></b> for <a href="https://github.com/nickworonekin/narchive">narchive</a>, a narc unpacker/repacker tool
 
-<a href="https://github.com/PikalaxALT">PikalaxALT</a> for <a href="https://github.com/pret/pokeheartgold/tree/master/tools/msgenc">msgenc</a>, a text archive encoding tool
+<b><a href="https://github.com/PikalaxALT">PikalaxALT</a></b> for <a href="https://github.com/pret/pokeheartgold/tree/master/tools/msgenc">msgenc</a>, a text archive encoding tool
 
-Domeko, a user from Kingdom of DS Hacking whose edits helped me understand the structure of the B/W2 Habitat List
+<b>Xehnog</b>, a user from <i>Kingdom of DS Hacking</i> who first investigated the BW2 Habitat List and its structure
+
+<b>Domeko</b>, a user from <i>Kingdom of DS Hacking</i> whose edits helped me match the different file names with corresponding locations
 
 
 

@@ -29,6 +29,9 @@ You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar t
 
 <a href="https://github.com/PikalaxALT">PikalaxALT</a> for <a href="https://github.com/pret/pokeheartgold/tree/master/tools/msgenc">msgenc</a>, a text archive encoding tool
 
+Domeko, a user from Kingdom of DS Hacking whose edits helped me understand the structure of the B/W2 Habitat List
+
+
 
 
 

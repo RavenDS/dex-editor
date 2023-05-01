@@ -8,7 +8,7 @@ A tool to edit regional pokedex order, area data, names and descriptions in Gen 
 * DP/Pt/HG/SS support
 * BW/BW2 support
 * Add, Remove, Edit & Move entries
-* Edit Pokemon Habitat/Area data
+* Edit Pokemon Habitat/Area data (BW/BW2 only)
 * Language-specific naming (English, French, and German)
 * Import/Export entire Dex as .txt
 * Export all .bin files already formatted, ready to insert
@@ -17,7 +17,7 @@ You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar t
 
 ## Folder Mode features:
 * Edit Names and descriptions
-* Edit <b>Area Data</b>
+* Edit <b>Area Data</b> (Gen 4)
 * Same functionalities as 'Classic Mode'
 * Write everything to <a href=https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor>DSPRE</a> folder, no need for [Tinke](https://github.com/pleonex/tinke)
 

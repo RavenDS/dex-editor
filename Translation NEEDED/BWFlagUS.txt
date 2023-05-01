@@ -1,0 +1,14 @@
+Land (Grass)
+Land (Dark Grass)
+Land (Multi)
+Land (Rustling)
+Land (All)
+Water (Surf)
+Water (Rippling)
+Water (Surf/Rippling)
+Fishing
+Fishing (Rippling)
+Water/Land
+Water/Land (2)
+Water/Fishing
+All 3

@@ -22,6 +22,7 @@ You'll need **[Tinke](https://github.com/pleonex/tinke)** or something similar t
 * Write everything to <a href=https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor>DSPRE</a> folder, no need for [Tinke](https://github.com/pleonex/tinke)
 
 ## Notes
+* You can help by <a href ="https://github.com/RavenDS/dex-editor/tree/main/Translation%20NEEDED"><b>translating Location/City names in other languages</b></a> (German, Spanish, Italian, Japanese and Korean)
 * The language toggle does not change how the names are displayed in game, only in the tool
 
 ## Credits

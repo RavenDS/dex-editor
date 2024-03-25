@@ -16,7 +16,6 @@ A tool to edit regional pokedex order, area data, names and descriptions in Gen 
 ## Notes
 * You can help by <a href ="https://github.com/RavenDS/dex-editor/tree/main/Translation%20NEEDED"><b>translating Location/City names in other languages</b></a> (German, Spanish, Italian, Japanese and Korean)
 * The language toggle does not change how the names are displayed in game, only in the tool
-* Screen resolutions under 1920x1080 are unsupported
 
 ## Credits
 <b><a href="https://github.com/nickworonekin">nickworonekin</a></b> for <a href="https://github.com/nickworonekin/narchive">narchive</a>, a narc unpacker/repacker tool

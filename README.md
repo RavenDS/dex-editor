@@ -14,13 +14,13 @@ A tool to edit regional pokedex order, area data, names and descriptions in Gen 
 * Write everything to <a href=https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor>DSPRE</a> folder, or insert with [Tinke](https://github.com/pleonex/tinke)
 
 ## Notes
-* You can help by <a href ="https://github.com/RavenDS/dex-editor/tree/main/Translation%20NEEDED"><b>translating Location/City names in other languages</b></a> (German, Spanish, Italian, Japanese and Korean)
+* In order to use the new features in HG/SS, you have to uncompress overlay 18 using [DSPRE’s latest beta](https://github.com/Mixone-FinallyHere/DS-Pokemon-Rom-Editor/releases/latest) . (Not required for previous features)
 * The language toggle does not change how the names are displayed in game, only in the tool
 
 ## Credits
-<b><a href="https://github.com/nickworonekin">nickworonekin</a></b> for <a href="https://github.com/nickworonekin/narchive">narchive</a>, a narc unpacker/repacker tool
+Parts of the NARC unpacking/repacking functions are based on <b><a href="https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/blob/main/DS_Map/Narc.cs">DSPRE</a></b> by <b><a href="https://github.com/AdAstra-LD">AdAstra</a></b> and <b><a href="https://github.com/Nomura-RH">Nomura</a></b>
 
-<b><a href="https://github.com/pret">pret</a></b> for <a href="https://github.com/pret/pokeheartgold/tree/master/tools/msgenc">msgenc</a>, a text archive encoding tool
+Special Thanks to <b>@RefinedPlatinum</b> for the help and extensive testing!
 
 <b>Xehnog</b>, a user from <i>Kingdom of DS Hacking</i> who first investigated the BW2 Habitat List and its structure
 

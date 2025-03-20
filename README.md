@@ -2,7 +2,7 @@
 
 A tool to edit regional pokedex order, area data, names and descriptions in Gen 4-5 games
 
-<img src="RDE1.3.png" width=50% height=50%>
+<img src="RDE1.5.png" width=50% height=50%>
 
 ## Features:
 * <b>DP/Pt/HG/SS</b> support

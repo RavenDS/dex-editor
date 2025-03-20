@@ -15,7 +15,6 @@ A tool to edit regional pokedex order, area data, names and descriptions in Gen 
 
 ## Notes
 * In order to use the new features in HG/SS, you have to uncompress overlay 18 using [DSPRE’s latest beta](https://github.com/Mixone-FinallyHere/DS-Pokemon-Rom-Editor/releases/latest) . (Not required for previous features)
-* The language toggle does not change how the names are displayed in game, only in the tool
 
 ## Credits
 Parts of the NARC unpacking/repacking functions are based on <b><a href="https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/blob/main/DS_Map/Narc.cs">DSPRE</a></b> by <b><a href="https://github.com/AdAstra-LD">AdAstra</a></b> and <b><a href="https://github.com/Nomura-RH">Nomura</a></b>

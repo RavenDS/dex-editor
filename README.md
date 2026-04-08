@@ -12,10 +12,10 @@ A tool to edit regional pokedex order, area data, names and descriptions in Gen 
 * Edit Pokemon Habitat/Area data
 * Import/Export entire Dex as .txt
 * Export all .bin files already formatted
-* Write everything to <a href=https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor>DSPRE</a> folder, or insert with [Tinke](https://github.com/pleonex/tinke)
+* Write everything to <a href=https://github.com/DS-Pokemon-Rom-Editor/DSPRE>DSPRE</a> folder, or insert with [Tinke](https://github.com/pleonex/tinke)
 
 ## Notes
-* In order to use the new features in HG/SS, you have to uncompress overlay 18 using [DSPRE’s latest beta](https://github.com/Mixone-FinallyHere/DS-Pokemon-Rom-Editor/releases/latest)
+* In order to use all features in HG/SS, you have to uncompress overlay 18 using [DSPRE](https://github.com/DS-Pokemon-Rom-Editor/DSPRE)
 
 ## Credits
 Parts of the NARC unpacking/repacking functions are based on <b><a href="https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/blob/main/DS_Map/Narc.cs">DSPRE</a></b> by <b><a href="https://github.com/AdAstra-LD">AdAstra</a></b> and <b><a href="https://github.com/Nomura-RH">Nomura</a></b>
